@@ -1,3 +1,7 @@
+# 2.1.0 15 feb
+
+- Remove file.
+
 # 2.0.0 4 feb
 
 - Add changelog.
